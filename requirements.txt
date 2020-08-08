@@ -1,0 +1,7 @@
+matplotlib
+os
+mtcnn
+Pillow
+numpy
+keras_vggface
+scipy
